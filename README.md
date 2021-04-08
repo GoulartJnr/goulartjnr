@@ -25,11 +25,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Goulartjnr&show_icons=false">
 
 ---
-### Get in touch 📧
+### Get in touch
 
 - [Twitter](https://twitter.com/goulartjnr)
 - [Website](https://www.agenciaorganize.com/)
 
 ---
 
-⭐️ From [Goulartjnr](https://github.com/Goulartjnr)
+From [Goulartjnr](https://github.com/Goulartjnr)
