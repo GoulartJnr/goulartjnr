@@ -1,4 +1,4 @@
-👋 Hi, I'm Goulart,a passionate full-stack developer from Brazil 🚀. 
+Hi, I'm Goulart, a passionate full-stack developer from Brazil. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
