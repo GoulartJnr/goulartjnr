@@ -4,10 +4,10 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Learning :** Full-Stack Development | Open-Source
 -  **Languages :** PHP, JavaScript
--  **Hobbies :** Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Hobbies :** Music
+-  **Fact :** First solve the problem, then write the code
 -  **Contact me :** [Goulartjnr](mailto:goulartjnr@gmail.com)
 
 ### Languages and Tools
