@@ -32,16 +32,17 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ### 🏆 Github Stats:
 
-<img alt="Goulartjnr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=default" width="500"/>
+#### Goulartjnr's Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=default" width="500"/>
 
-<img alt="Goulartjnr's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+#### Goulartjnr's Top Languages Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 ---
 
 #### Get in touch
 
 <a href="https://www.twitter.com/goulartjnr/"><img src="https://img.shields.io/badge/twitter%20@goulartjnr-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-[![Twitter Badge](https://img.shields.io/badge/-@goulartjnr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/goulartjnr)](https://twitter.com/aman_atg)
 
 ---
 
