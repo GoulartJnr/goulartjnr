@@ -28,7 +28,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
----
+##
 
 ### 🏆 Github Stats:
 
@@ -38,18 +38,18 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 #### Goulartjnr's Top Languages Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true&hide_title=0" width="500"/>
 
----
+##
 
 #### Get in touch
 
 <a href="https://www.twitter.com/goulartjnr/"><img src="https://img.shields.io/badge/twitter%20@goulartjnr-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
----
+##
 
 <p align="center">
   <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/preview.gif" width="350" />
 </p>
 
----
+##
 
 From [Goulartjnr](https://github.com/Goulartjnr)
