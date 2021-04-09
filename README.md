@@ -8,11 +8,9 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 ### I'm a Full-Stack Developer based in Balneário Camboriú, Santa Catarina.
 
 -  **Working :** I'm currently working full-time at **Organize Comunicação**
--  **Daily :** I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.sql`
+-  **Daily use :** I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.sql`
 -  **Learning :** Full-Stack Development | Open-Source
--  **Languages :** PHP, JavaScript
 -  **Hobbies :** Music
--  **Fact :** First solve the problem, then write the code
 -  **Contact me :** [Goulartjnr](mailto:goulartjnr@gmail.com)
 
 #### Tech Stack:
