@@ -14,8 +14,8 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 -  **Contact me :** [Goulartjnr](mailto:goulartjnr@gmail.com)
 
 #### Tech Stack:
-- Backend: Java8, Restful Services, Microservices
-- Frontend: HTML5, CSS3, Jquery
+- Backend: C, C++, Java, Ruby, PHP, .Net and Python
+- Frontend: HTML5, CSS3, Javascript, Jquery
 - Database: Oracle Sql, MySql
 - Cloud: AWS
 - Version Control: Git
