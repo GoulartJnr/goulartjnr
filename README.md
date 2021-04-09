@@ -38,13 +38,6 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true&hide_title=0" width="500"/>
 </p>
 
-<a href='https://github.com/goulartjnr/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/goulartjnr/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/goulartjnr/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 ##
 <!--
 ### Now Playing on Spotify <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/bars.gif" width="200px">
