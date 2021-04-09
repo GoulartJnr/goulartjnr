@@ -25,11 +25,19 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ##
 
-#### My Work
+#### Some of my work
 | Project | URL |
 | --- | --- |
-| Simko Brasil | (https://www.simkobrasil.com.br/) |
-| GS Massas | (https://www.gsmassas.com.br/) |
+| Simko Brasil | https://www.simkobrasil.com.br/ |
+| GS Massas | https://www.gsmassas.com.br/ |
+| UCT Segurança | https://www.uctseg.com.br/| 
+| Costa Brava | https://www.costabravainc.com.br/ | 
+| AHG Services | https://www.ahgservices.com/ | 
+| Top One Academia | https://www.toponeacademia.com.br/ | 
+| Dental Clean | https://www.dentalcleanvale.com.br/ | 
+| Top Solutions Tampos | https://www.tstampos.com.br/ | 
+| ArtSector | https://www.artsector.com.br/ | 
+| Projetos Sustentáveis | https://www.projetosustentaveis.com.br/ | 
 
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/goulartjnr/">LinkedIn</a>
