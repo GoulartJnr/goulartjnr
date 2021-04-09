@@ -18,7 +18,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 - Listening to all my favorite jams on <a href="https://open.spotify.com/user/goulartjnr">Spotify</a>
 - Tweeting about anything on <a href="https://twitter.com/goulartjnr/">Twitter</a>
 
-### Languages and Tools
+#### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -34,7 +34,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ---
 
-### Get in touch
+#### Get in touch
 
 <a href="https://www.twitter.com/goulartjnr/"><img src="https://img.shields.io/badge/twitter%20@goulartjnr-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
