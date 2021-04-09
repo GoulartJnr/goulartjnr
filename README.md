@@ -37,5 +37,5 @@ From [Goulartjnr](https://github.com/Goulartjnr)
 ---
 
 <p align="center">
-  <img src="https://github.com/goulartjnr/goulartjnr/blob/master/preview.gif" width="350" />
+  <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/preview.gif" width="350" />
 </p>
