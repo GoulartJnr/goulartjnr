@@ -38,9 +38,11 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 ##
 ### 🏆 Github Stats:
 
-#### Goulartjnr's Github Stats <img src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=default&hide_title=0" width="500"/>
+#### Goulartjnr's Github Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=default&hide_title=0" width="500"/>
 
-#### Goulartjnr's Top Languages Stats <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true&hide_title=0" width="500"/>
+#### Goulartjnr's Top Languages Stats 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true&hide_title=0" width="500"/>
 
 ##
 
@@ -50,14 +52,8 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ##
 
-<p align="center">
-  <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/preview.gif" width="350" />
-</p>
-
-##
-
 ### Now Playing on Spotify <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/bars.gif" width="200px">
-[![Spotify](https://novatorem.goulartjnr.vercel.app/api/spotify)](https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb)
 
 ##
 
