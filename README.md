@@ -4,7 +4,10 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About
+#### I'm a Full-Stack Developer based in Balneário Camboriú, Santa Catarina.
 
+-  **Working :** 🏢 I'm currently working full-time at **Organize Comunicação**
+-  **Daily :** ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 -  **Learning :** Full-Stack Development | Open-Source
 -  **Languages :** PHP, JavaScript
 -  **Hobbies :** Music
