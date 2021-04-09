@@ -37,6 +37,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 #### Get in touch
 
 <a href="https://www.twitter.com/goulartjnr/"><img src="https://img.shields.io/badge/twitter%20@goulartjnr-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+[![Twitter Badge](https://img.shields.io/badge/-@goulartjnr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/goulartjnr)](https://twitter.com/aman_atg)
 
 ---
 
