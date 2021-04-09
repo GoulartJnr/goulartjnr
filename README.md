@@ -33,3 +33,9 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 ---
 
 From [Goulartjnr](https://github.com/Goulartjnr)
+
+---
+
+<p align="center">
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+</p>
