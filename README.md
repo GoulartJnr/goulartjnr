@@ -17,7 +17,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/goulartjnr/">LinkedIn</a>
-- Listening to all my favorite jams on <a href="https://open.spotify.com/user/goulartjnr">Spotify</a>
+- Listening to all my favorite jams on <a href="https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb">Spotify</a>
 - Tweeting about anything on <a href="https://twitter.com/goulartjnr/">Twitter</a>
 
 #### Languages and Tools
