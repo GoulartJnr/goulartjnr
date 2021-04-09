@@ -23,6 +23,14 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 - IDE: VS Code, Eclips, Netbeans
 - Operating System: Linux, Mac, Windows
 
+##
+
+#### My Work
+| Project | URL |
+| --- | --- |
+| Simko Brasil | (https://www.simkobrasil.com.br/) |
+| GS Massas | (https://www.gsmassas.com.br/) |
+
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/goulartjnr/">LinkedIn</a>
 - Listening to all my favorite jams on <a href="https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb">Spotify</a>
