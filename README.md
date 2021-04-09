@@ -15,6 +15,16 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 -  **Fact :** First solve the problem, then write the code
 -  **Contact me :** [Goulartjnr](mailto:goulartjnr@gmail.com)
 
+#### Tech Stack:
+- Backend: Java8, Restful Services, Microservices
+- Frontend: HTML5, CSS3, Jquery
+- Database: Oracle Sql, MySql
+- Cloud: AWS
+- Version Control: Git
+- Prototyping: JustInMind
+- IDE: VS Code, Eclips, Netbeans
+- Operating System: Linux, Mac, Windows
+
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/goulartjnr/">LinkedIn</a>
 - Listening to all my favorite jams on <a href="https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb">Spotify</a>
