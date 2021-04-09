@@ -56,7 +56,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ##
 
-### Now Playing on Spotify <img src="https://github.com/goulartjnr/goulartjnr/blob/master/gifs/bars.gif" width="200px">
+### Now Playing on Spotify <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/bars.gif" width="200px">
 [![Spotify](https://novatorem.goulartjnr.vercel.app/api/spotify)](https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb)
 
 ##
