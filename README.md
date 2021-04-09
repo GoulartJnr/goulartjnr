@@ -32,12 +32,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ##
 
-#### From Thomas Carlyle - Sartor Resartus
-<sam>To me the Universe was all void of Life, of Purpose, of Volition, even of Hostility: it was one huge, dead, immeasurable Steam-engine, rolling on, in its dead indifference, to grind me limb from limb. Oh, the vast, gloomy, solitary Golgotha, and Mill of Death! Why was the Living banished thither companionless, conscious? Why, if there is no Devil; nay, unless the Devil is your God?'</sam>
-
-##
 ### 🏆 Github Stats:
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=default&hide_title=0" width="500"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true&hide_title=0" width="500"/>
@@ -47,6 +42,11 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ### Now Playing on Spotify <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/bars.gif" width="200px">
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb)
+
+##
+
+#### From Thomas Carlyle - Sartor Resartus
+<sam>To me the Universe was all void of Life, of Purpose, of Volition, even of Hostility: it was one huge, dead, immeasurable Steam-engine, rolling on, in its dead indifference, to grind me limb from limb. Oh, the vast, gloomy, solitary Golgotha, and Mill of Death! Why was the Living banished thither companionless, conscious? Why, if there is no Devil; nay, unless the Devil is your God?'</sam>
 
 ##
 
