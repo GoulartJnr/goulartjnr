@@ -37,8 +37,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 | Dental Clean | https://www.dentalcleanvale.com.br/ | 
 | Top Solutions Tampos | https://www.tstampos.com.br/ | 
 | ArtSector | https://www.artsector.com.br/ | 
-| Projetos Sustentáveis | https://www.projetosustentaveis.com.br/ | 
-| Some Project | [go](http://stackoverflow.com){:target="_blank" rel="noopener"} |
+| Projetos Sustentáveis | https://namishkhanna.github.io/newtab/?url=https://www.projetosustentaveis.com.br/ | 
 
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/goulartjnr/">LinkedIn</a>
