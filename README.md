@@ -1,7 +1,7 @@
 Hi, I'm Goulart, a passionate full-stack developer from Brazil. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goulartjnr" alt="goulartjnr" /> </p>
 
-<img width="35%" align="right" alt="Github" src="https://github.com/GoulartJnr/goulartjnr/blob/main/preview.gif" />
+<p align="right"> <img align="right" alt="Github" src="https://github.com/GoulartJnr/goulartjnr/blob/main/preview.gif" /> </p>
 
 ##
 
