@@ -39,12 +39,11 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 </p>
 
 ##
-
+<!--
 ### Now Playing on Spotify <img src="https://github.com/GoulartJnr/goulartjnr/blob/main/bars.gif" width="200px">
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/wq60zdu025g33du8t77k21xmb)
-
 ##
-
+-->
 #### From Thomas Carlyle - Sartor Resartus
 <sam>To me the Universe was all void of Life, of Purpose, of Volition, even of Hostility: it was one huge, dead, immeasurable Steam-engine, rolling on, in its dead indifference, to grind me limb from limb. Oh, the vast, gloomy, solitary Golgotha, and Mill of Death! Why was the Living banished thither companionless, conscious? Why, if there is no Devil; nay, unless the Devil is your God?'</sam>
 
