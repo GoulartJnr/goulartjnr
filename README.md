@@ -18,9 +18,8 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 - Frontend: HTML5, CSS3, Javascript, Jquery
 - Database: Oracle Sql, MySql
 - Cloud: AWS
-- Version Control: Git
-- Prototyping: JustInMind
-- IDE: VS Code, Eclips, Netbeans
+- Prototyping: Adobe XD, Figma
+- IDE: VS Code, Eclipse, Sublime Text 3
 - Operating System: Linux, Mac, Windows
 
 ##
