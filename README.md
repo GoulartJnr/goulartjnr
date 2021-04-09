@@ -1,7 +1,7 @@
 Hi, I'm Goulart, a passionate full-stack developer from Brazil. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goulartjnr" alt="goulartjnr" /> </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##
 
 ### I'm a Full-Stack Developer based in Balneário Camboriú, Santa Catarina.
 
