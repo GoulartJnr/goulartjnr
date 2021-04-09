@@ -38,7 +38,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 | Top Solutions Tampos | https://www.tstampos.com.br/ | 
 | ArtSector | https://www.artsector.com.br/ | 
 | Projetos Sustentáveis | https://www.projetosustentaveis.com.br/ | 
-| | [temporarily disable liquid tag processing](https://shopify.github.io/liquid/tags/raw/){:title="Click to Visit the Raw page at Shopify"}{:target="_blank"} |
+<!-- | | [Nome do Projeto](https://url-do-projeto.com.br/){:title="Nome do Projeto"}{:target="_blank"} | -->
 
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/goulartjnr/">LinkedIn</a>
