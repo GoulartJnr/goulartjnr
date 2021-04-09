@@ -34,7 +34,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ![Goulartjnr's github stats](https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=["issues"]&show_icons=true)
 
-<img alt="Goulartjnr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img alt="Goulartjnr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=goulartjnr&hide=stars&show_icons=true&hide_border=true&theme=default" width="500"/>
 
 <img alt="Goulartjnr's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
