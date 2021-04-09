@@ -28,13 +28,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 ### Get in touch
 
-<a href="https://www.instagram.com/goulartjnr/"><img src="https://img.shields.io/badge/instagram%20@goulartjnr-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/goulartjnr/"><img src="https://img.shields.io/badge/facebook%20@goulartjnr-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.twitter.com/goulartjnr/"><img src="https://img.shields.io/badge/twitter%20@goulartjnr-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.agenciaorganize.com/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20Organize-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-
-- [Twitter](https://twitter.com/goulartjnr)
-- [Website](https://www.agenciaorganize.com/)
 
 ---
 
