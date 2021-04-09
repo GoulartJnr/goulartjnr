@@ -43,7 +43,9 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 
 #### Goulartjnr's Top Languages Stats 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartjnr&hide=smalltalk&theme=buefy&layout=compact&hide_border=true&hide_title=0" width="500"/>
-
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+  </p>
 ##
 
 #### Get in touch
