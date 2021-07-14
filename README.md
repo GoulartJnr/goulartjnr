@@ -43,7 +43,6 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 | --- | --- |
 | IsoOne | https://isoone.agenciaorganize.com/ |
 | Podoweb | https://podoweb.agenciaorganize.com/ |
-| Teste | [Google](https://google.com.br)(:target="_blank") |
 
 <!-- | | [Nome do Projeto](https://url-do-projeto.com.br/){:title="Nome do Projeto"}{:target="_blank"} | -->
 
