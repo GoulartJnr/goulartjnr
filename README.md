@@ -27,7 +27,7 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 #### Some of my work
 | Project | URL |
 | --- | --- |
-| Simko Brasil | https://www.simkobrasil.com.br/ |
+| Simko Brasil | http://www.simkobrasil.com.br/ |
 | GS Massas | https://www.gsmassas.com.br/ |
 | UCT Segurança | https://www.uctseg.com.br/| 
 | Costa Brava | https://www.costabravainc.com.br/ | 
