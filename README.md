@@ -27,22 +27,29 @@ Hi, I'm Goulart, a passionate full-stack developer from Brazil.
 #### Some of my work
 | Project | URL |
 | --- | --- |
+| Mescla | https://www.vistamescla.com.br/ |
 | Simko Brasil | http://www.simkobrasil.com.br/ |
+| Rogério Domingues | https://www.rogeriodomingues.com/ |
 | GS Massas | https://www.gsmassas.com.br/ |
 | UCT Segurança | https://www.uctseg.com.br/| 
 | Costa Brava | https://www.costabravainc.com.br/ | 
 | AHG Services | https://www.ahgservices.com/ | 
 | Top One Academia | https://www.toponeacademia.com.br/ | 
 | Dental Clean | https://www.dentalcleanvale.com.br/ | 
+| Patrol Parts | https://www.patrolparts.com.br/ |
 | Top Solutions Tampos | https://www.tstampos.com.br/ | 
 | ArtSector | https://www.artsector.com.br/ | 
 | Projetos Sustentáveis | https://www.projetosustentaveis.com.br/ | 
+| AJF Móveis | https://www.ajfmoveis.com.br/ |
+| Podoweb | https://www.podoweb.com.br/ |
+| HRA Informática | https://www.hrainformatica.com.br/ |
+| Celular Sul | https://www.celularsulsc.com.br/ |
 
 #### Work in progress
 | Project | URL |
 | --- | --- |
-| IsoOne | https://isoone.agenciaorganize.com/ |
 | Podoweb | https://podoweb.agenciaorganize.com/ |
+| Iso One | https://isoone.agenciaorganize.com/ |
 
 <!-- | | [Nome do Projeto](https://url-do-projeto.com.br/){:title="Nome do Projeto"}{:target="_blank"} | -->
 
